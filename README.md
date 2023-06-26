@@ -1,7 +1,7 @@
 <p align="center">
  <a href="#-about-project">About</a> •
+ <a href="#-tecnologies-used">Technologies Used</a>
  <a href="#-features">Features</a> •
- <a href="#-tecnologias">Technologies</a>
 </p>
 
 <h1 align="center">
@@ -56,15 +56,14 @@ Set up the MySQL database connection information in the `./server/db.js` file.
 Run the npm start command to start the backend server.
 
 ```bash
-
-$ npm install
+$ yarn start
 
 ```
 
 Navigate to the frontend directory and run the npm install command to install the dependencies.
 
 ```bash
-$ cd server
+$ cd frontend
 
 $ npm install
 
